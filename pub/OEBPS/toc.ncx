@@ -14,17 +14,38 @@
   <navMap>
 
     
-    <navPoint id="navPoint-0">
+    <navPoint id="n-0">
       <navLabel>
-        <text>Titulus</text>
+        <text>Cover</text>
       </navLabel>
       <content src="cover.xhtml" />
     </navPoint>
 
     
-    <navPoint id="toc-content">
-      <navLabel><text>Frontispiece</text></navLabel>
+    <navPoint id="n-1">
+      <navLabel><text>Title Page</text></navLabel>
+      <content src="title.xhtml"/>
+    </navPoint
+
+    
+    <navPoint id="n-2">
+      <navLabel><text>Acknowledgements</text></navLabel>
+      <content src="ack.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="n-3">
+      <navLabel><text>TOC</text></navLabel>
+      <content src="nav.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="n-4">
+      <navLabel><text>Versuch</text></navLabel>
       <content src="001.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="n-5">
+      <navLabel><text>Notes</text></navLabel>
+      <content src="notes.xhtml"/>
     </navPoint>
     
 

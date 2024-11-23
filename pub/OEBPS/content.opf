@@ -33,18 +33,30 @@
     <item id="cover-img"
 	  href="images/cover.png"
 	  media-type="image/png"/>
+    <item href="title.xhtml"
+	  id="c-title"
+	  media-type="application/xhtml+xml"/>ml+xml"/>
+    <item href="ack.xhtml"
+	  id="c-ack"
+	  media-type="application/xhtml+xml"/>ml+xml"/>
+    <item href="notes.xhtml"
+	  id="c-notes"
+	  media-type="application/xhtml+xml"/>ml+xml"/>
   </manifest>
   
   <spine toc="ncx">
     <itemref idref="cover" />
+    <itemref idref="c-title" />
     <itemref idref="c-001" />
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="cover.xhtml"/>
+    <reference type="title-page" title="Tile Page" href="title.xhtml"/>
+    <reference type="copyright-page" title="Acknowledgements" href="ack.xhtml"/>
     <reference type="toc" title="Inhalt" href="nav.xhtml"/>
-  </guide>
-
-  
+    <reference type="text" title="Versuch" href="001.xhtml"/>
+    <reference type="notes" title="footnotes" href="notes.xhtml"/>
+  </guide>  
 </package>
 
 
