@@ -30,6 +30,9 @@
     <item id="style"
 	  href="style.css"
 	  media-type="text/css"/>
+    <item id="cover-img"
+	  href="images/cover.png"
+	  media-type="image/png"/>
   </manifest>
   
   <spine toc="ncx">

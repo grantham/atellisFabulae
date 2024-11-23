@@ -14,6 +14,8 @@ OCR was performed on the PDF using:
 
 Manual correction was then carried out on the text, incorporating the table of errata.
 
+Cover image from https://commons.wikimedia.org/wiki/File:Mosaic_with_mask_of_Silenus.jpg
+
 * Build the epub
 
 =$ ./publish=
