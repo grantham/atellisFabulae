@@ -75,7 +75,7 @@ seyn, wenn nicht der Drang der Umstände die
 Befanntfchaft mit etwas Neuem herbeigeführt hätte, Es
 
 #### 9 ./txt/026.txt ####
-war nämlich, wie Livius [1] erzählt, unter dem Consulate
+war nämlich, wie Livius [9-1] erzählt, unter dem Consulate
 des C. Sulpicius Peticus und C. Picinius Stolo im
 I. R. 391 eine, Pest ausgebrochen, die weder durch
 menschliche Klugheit, noch: durch Anflehung göttlicher
@@ -93,7 +93,7 @@ der Bewegungen aufgeführt wurden. Durch die
 Neuheit der Sache angelokt machten die römifchen Júnglinge
 den Verfuch sie nachzuahmen , und belustigten sich
 
-[1] Liv. VII. c.2... C, Sulpicio Petico et C. Licinio
+[9-1] Liv. VII. c.2... C, Sulpicio Petico et C. Licinio
 Stolone coss. pestilentia fuit, eo nihil dignum memoria
 actum, nisi quod pacis Deum exposcendae causa tertio tum
 post conditam urbem lectisternium fuit, et quum vis morbi,
@@ -115,7 +115,7 @@ durchzogen. Dieser Zufaß zu den Pantomimen der Etruscer war
 aber keineswegs, wie mir wenigstens scheint, eine neue,
 der römischen Jugend eigene Erfindung, sondern ein bei
 den Landleuten üblicher Gebrauch, die, nach der Aussage
-des Virgil [1] und Horaz [2] bei ländlichen Festen ihre
+des Virgil [10-1] und Horaz [10-2] bei ländlichen Festen ihre
 Unterhaltung darin fanden, sich unter einander in rohen
 Versen zu verspotten. Diese Sitte, welche zu nahe vor
 Augen lag, um unbekannt geblieben zu seyn, scheinen
@@ -128,12 +128,12 @@ von ihnen machte, einen gänzlich veränderten Character
 gewinnen mußten. Man mochte aus ihnen aber nur die
 Weisung entnommen haben, wie sich am passendsten die
 
-[1] Virg. Georg II. 385.
+[10-1] Virg. Georg II. 385.
 Nec non Ausonii, Troja gens missa, coloni
 Versibus incomtis ludunt risuque soluto
 Oraque corticibus sumunt horrenda‚ cavatis,
 
-[2] Horaz, Ep. II. 1. Zr
+[10-2] Horaz, Ep. II. 1. Zr
 
 Agricolae prisci, fortes, parvoque beati
 Condita post frumenta, levantes tempore festo
@@ -147,7 +147,7 @@ Versibus alternis opprobria rustica fudit.
 #### 11 ./txt/032.txt ####
 Leidenschaften und mannichfachen Stimmungen des Gemüthes
 durch Tanz ausdrücken ließen, und da man, wie
-Livius sagt [1], bemüht war, die körperlichen Bewegüngen,
+Livius sagt [11-1], bemüht war, die körperlichen Bewegüngen,
 mit dem Sinne der Worte in Ǘbereinstimmung zu
 bringen; so konnten daraus nur groteske Tänze hervorgehen,
 die freilich ganz geeignet waren, das Lächerliche zu
@@ -161,15 +161,15 @@ Sache an Kunst und: Regelmäßigkeit gewann, und so
 allgemeinen Beifall fand, daß sie zur Öffentlichkeit
 gelangte, traten die Jünglinge zurück, und überließen die
 Aufführung dieses Dramas einer eigenen Klasse von
-Schauspielern [2], welche sich allmählich, so weit
+Schauspielern [11-2], welche sich allmählich, so weit
 vervollkommneten, daß sie Saturen, Poffenfpiele mannichfachen
 Inhaltes, in gefeilteren Versarten mit einer durch die
 Weise der Flöte geleiteten Deklamation und mit passenden
 körperlichen Bewegungen aufführen konnten.
 
-[1] Livius. Nec absoni a voce motus.
+[11-1] Livius. Nec absoni a voce motus.
 
-[2] Liv. a. a, O. Accepta itaque res, saepiusque usurpando
+[11-2] Liv. a. a, O. Accepta itaque res, saepiusque usurpando
 excitata, vernaculis artificibus; quia hister Tusco verbo
 ludio vocabatur, nomen histrionibus inditum: qui non sicut
 ante, Fescennino versu similem incompositum temere ac
@@ -202,11 +202,11 @@ Spottes umherzufschweifen, und selbst durch die
 überraschende Kühnheit ihrer Übergänge zu den
 verschiedenartigsten Gegenständen die Zuschauer zu ergößen.
 
-Um das Jahr 5 514 machte Livius Andronicus [1] den
+Um das Jahr 5 514 machte Livius Andronicus [12-1] den
 erstèn Versuch mit der Einführung des kunstmáßigen
 griechischen
 
-[1] Livius post aliquot annos ab saturis ausus est primus
+[12-1] Livius post aliquot annos ab saturis ausus est primus
 argumento fabulam serere — 
 — lege hac fabularum ab risu ac soluto joco res avocabatur,
 et ludus in artem paulatim verterat.
@@ -233,7 +233,7 @@ hinter dem patriotischen Grunde zu verbergen, daß
 er als Bürger, weil eben jene rein wissenschaftliche
 Richtung, die Griechen um ihre politische Existenz gebracht
 habe, sich vor ähnlichem Abwege bewahren müsse, und
-wenn, Sallust [1], noch den Marius zum Volke nicht ohne
+wenn, Sallust [13-1], noch den Marius zum Volke nicht ohne
 eine gewisse Selbstgefälligkeit, als rühme er sich einer
 anerkannt guten Eigenschaft, sagen läßt: Neque litteras
 graecas didici, parum placebat, eas dicere,
@@ -241,7 +241,7 @@ quippe quae auctoribus ad virtutem nihil profuerunt; so,
 glaube ich, daß er nicht blos die Meinung des
 
 
-[1] Bell. Tug, c. 85.
+[13-1] Bell. Tug, c. 85.
 
 #### 14 ./txt/041.txt ####
 einzelnen Mannes, sondern‘ des ganzen Zeitalters verkündet.
@@ -259,7 +259,7 @@ des Stückes verlor sich oft die Menge der Zuschauer, wenn
 irgend wo ein Bär oder Seiltänzer seine Künste zeigte,
 und indem man das Auge mit Entzücken an solchen Gegenftänden
 weidete, blieb die griechische Muse einer schimpflichen
-Vergessenheit überlassen [1].
+Vergessenheit überlassen [14-1].
 
 Hätte sich diese Vernachlässigung blos bei der niederen
 Volksfklasse gezeigt, so würde sie nicht für die
@@ -269,7 +269,7 @@ gleich zu seyn pflegt; allein selbst bei den Vornehmern
 âußerten sich, wenn auch mit mehr Feinheit gepaart, eine
 
 
-[1] Terent. Hecyr, Prol, v. 1 — 5.
+[14-1] Terent. Hecyr, Prol, v. 1 — 5.
 Hecyra est huic gomen fabulae. Haec cum data est
 Nova, novum intervenit vitium et calamitas, 
 Ut neque spectari, neque cognosci potuerit,
@@ -278,35 +278,35 @@ Anımum occuparat.
 
 
 #### 15 ./txt/044.txt ####
-vorherrschende Neigung [1] für die  regellosen Ausbrüche
+vorherrschende Neigung [15-1] für die  regellosen Ausbrüche
 einer spottenden Laune in burlesken Darstellungen, wie
 sich selbe schon frúh in den Fescenninen und Saturen
 ausgesprochen hatte, und würde Veranlassung daß die
 römische Jugend nach dem Beispiele früherer Tage das
 vernächlässigte vaterländishe Schauspiel von Neuen
-übernahm [2]. Zwar hatte es nicht, wie mir scheint, jene
+übernahm [15-2]. Zwar hatte es nicht, wie mir scheint, jene
 vollkommnere Gestaltung, wie kurz vor Livius Aridronicus
-[3] (denn dazu wär schon mehr Kunst und Ǘbung erforderlich,
+[15-3] (denn dazu wär schon mehr Kunst und Ǘbung erforderlich,
 als man für eine bloße Privatunterhaltung aufwenden konnte,)
 wohl aber die alterthümliche Form, welche es bald nach
-Einfüßrung der tuscischen Tänze erhielt [4] als auch damals
+Einfüßrung der tuscischen Tänze erhielt [15-4] als auch damals
 noch freie Jünglinge mit seiner Aufführung beschäftigt wären.
 
-[1] Hor. Epist. II, 1. 185.
+[15-1] Hor. Epist. II, 1. 185.
 — media inter carmina poscunt
 Aut ursum aut pugiles: bis nam plebecula gaudet.
 
-[2] Wie eigenthümlich diese Neigung dem Volkscharakter der
+[15-2] Wie eigenthümlich diese Neigung dem Volkscharakter der
 Italiener ist, beurkunden auch die Erfahrungen der neueren Zeit,
 indem alle Stände dem Arlequino zuströmen, wenig empfindlich
 für die Leistungen der höheren dramatischen Kunst.
 
-[3] Postquam lege hac fabularum ab risu et soluto joco
+[15-3] Postquam lege hac fabularum ab risu et soluto joco
 res avocabatur, et ludus in artem paulatim verterat, juventus
 histrionibus fabellarum actu relicıo ipsa inter se more
 antiquo ridicula intexta versibus jactitare coepit.
 
-[4] Wollte Livius die Aufnahme der Satura in jener
+[15-4] Wollte Livius die Aufnahme der Satura in jener
 ansgebildeterem Form andeuten, so hätte er unstreitig gesagt: more
 antiquo saturas peragebant. Man vergleiche aber die Worte:
 "ipsa inter se more antiquo ridicula intexta versibus jactitare
@@ -319,13 +319,13 @@ zuzugeben scheint.
 Wie lange sich nun diese Satura selbstständig erhalten
 habe, ist nicht bekannt, wir wissen nur soviel, daß
 sie später blos als Nachspiel meist in Verbindung mit
-den Atellanen aufgeführt worden sey [1].
+den Atellanen aufgeführt worden sey [16-1].
 
 Diese atellanischen, Schauspiele, nach den einstimmigen
 Zeugnissen; alter Schriftsteller von den Oskern erfunden,
 erhielten von der Stadt Atella, heute St. Arpino,
 ein Dorf 2 Meilen von Aversa in der Terra di Livaro,
-wo sie zuerst aufgeführt wurden, ihren Namen [2]. Der
+wo sie zuerst aufgeführt wurden, ihren Namen [16-2]. Der
 Zeitpunkt ihrer Erfindung, ohne Zweifel in hohem Alterthume
 zu suchen, kann aus Mangel an Nachrichten nicht
 ermittelt werden, und scheint selbst den Römern
@@ -335,13 +335,13 @@ lange sie Eigenthum der Osker waren, irgend eine bestimmte
 Andeutung; ja selbst die Zeit ihrer Verpflanzung
 nach Rom läßt sich nicht mit Zuverlässigkeit angeben;
 denn obgleich eine frühe Bekanntschaft mit den Völkern
-Campaniens [3] die Ansicht vieler zu empfehlen scheint,
+Campaniens [16-3] die Ansicht vieler zu empfehlen scheint,
 
-[1] Liv. Iuventus ea inter se more antiguo ridicula
+[16-1] Liv. Iuventus ea inter se more antiguo ridicula
 Intexta versibus jactitare coepit; quae inde exodia postea
 appellata, consertaque fabellis potissimum Atellanis sunt.
 
-[2] Liv. genus ludorum ab Oscis acceptum.
+[16-2] Liv. genus ludorum ab Oscis acceptum.
 Val. Maxim. II. 4.  Atellani ludi ab Oscis acciti sunt.
  Diomed. III. p. 487. ed. Putsch  a civitate Oscorum
 Atella, in qua primum coeptae, Atellaniae dictae sunt.
@@ -349,7 +349,7 @@ Atella, in qua primum coeptae, Atellaniae dictae sunt.
 ubi actae sunt plurimae.
  Tacit. Annal. IV, 14. Oscum quondam ludicrum.
 
-[3] Schon im J. R. 412 wurde ein Bündnis mit denselben
+[16-3] Schon im J. R. 412 wurde ein Bündnis mit denselben
 geschloffen, dem gemäß sie sich den Römern unterwarfen und in
 in ihre Städte, römische Besagungen gegen die Einfälle der
 Samniter aufnahmen. 
@@ -377,10 +377,10 @@ Periode, welches er unmöglich so ganz mit Stillschweigen
 übergehen konnte, hinlänglich, es wäre denn, daß
 man lieber die Meinung A. W., Schlegels theilen wollte,
 welcher in seinen Vorlesungen über dramatische Kunst und
-Literatur [1] die Identität der Atellane und Satura 
+Literatur [17-1] die Identität der Atellane und Satura 
 
 
-[1] Thl. I. p. 6; "Die ältesten gesprochenen Schauspiele, die
+[17-1] Thl. I. p. 6; "Die ältesten gesprochenen Schauspiele, die
 sogenannten atelanifchen Fabeln entlehnten die Römer von
 den Oskern, den Urbewohnern Italiens. Bei diesen Saturen
 (so hießen sie, weil es anfänglich improvisirte Possenspiele
@@ -408,7 +408,7 @@ behauptet, die ihm schwerlich jemand auch nach einer
 blos oberflächlichen Ansicht der Worte des Livius zugesstehen
 möchte. Mir scheint für die Entscheidung der Frage
 der Umstand, daß auch diese Atellanen anfangs von den
-römischen Jünglingen aufgeführt wurden [1], von besonderer
+römischen Jünglingen aufgeführt wurden [18-1], von besonderer
 Wichtigkeit, denn er giebt der Vermuthung Wahrscheinlichkeit,
 daß ihre Einführung in Rom zu jener Zeit
 geschah, wo diese sich eben der verlassenen Satura wieder
@@ -420,7 +420,7 @@ sie mit einander in der Darstellung zu verbinden.
 Die Nachrichten der Sitten, welche uns über das
 Wesen des atellanischen Schauspieles in Beziehung auf
 
-[1] Liv. quod genus ludorum ab Oscis acceptum tenuit juven-
+[18-1] Liv. quod genus ludorum ab Oscis acceptum tenuit juven-
 * tus nec ab histzionibus pollui passa est.
 
 #### 19 ./txt/056.txt ####
@@ -437,7 +437,7 @@ vorlege, werde ich, nicht unterlassen, an seinem Orte anzudeuten,
 was mir alterthümlich oscische Erfindung oder Zufaß einer
 jüngeren Zeit zu seyn scheint.
 
-Wenn Diomedes [1] sagt, daß die Atellane dem Satyr-Drama
+Wenn Diomedes [19-1] sagt, daß die Atellane dem Satyr-Drama
 der Griechen ähnlich sey, so giebt er uns
 über ihr Wesen bedeutende Aufklärung, da wir in dem
 Cyclopen des Euripides ein solches Satyrspiel besitzen,
@@ -451,7 +451,7 @@ Gebiete wirken zu lassen. Da nun dieses Ländliche ein
 Hauptzug in dem Charakter des satyrishen Drama's der
 Griechen war, so würden wir, gestützt auf die Angabe
 
-[1] Diomedes II. p. 487.
+[19-1] Diomedes II. p. 487.
 
 Tertia species est fabularum latinarum, quae a civitate
 Oscorum Atella, in qua primum coeptae, Atellanae
@@ -512,10 +512,10 @@ wenn es nicht eine gewöhnliche Sache war, Bauern in den Atellanen handelnd
 einzuführen. Dieser ländliche Charakter der Atellane läßt
 uns nun nicht ohne einige Wahrscheinlichkeit auf ihren
 Ursprung schließen. Vielleicht herrschte auch bei den alten
-Oskern die Sitte, von welcher Horaz und Virgil [1] in
+Oskern die Sitte, von welcher Horaz und Virgil [21-1] in
 den oben angeführten Stellen sprechen , sich an ländlichen
 
-[1] Virg.
+[21-1] Virg.
   Versibus incomptis ludunt, risuque soluto.
 
 Hor.
@@ -540,10 +540,10 @@ sich aus späterer Zeit die unläugbarsten Beweise darbieten,
 und nicht, wie Schlegel meint, Saturen waren, verbürgt
 sowohl die Benennung fabula, mit welcher sie als
 etwas von den Osfern Empfangenes immer bezeichnet
-erden [1], als besonders der Umstand, daß sie nur so
+erden [22-1], als besonders der Umstand, daß sie nur so
 in Rom als eine eigene Gattung des Drama’s auftreten,
 
-[1] Selbst die Urt, wie die Alten sich ausdrüden, wenn sie von
+[22-1] Selbst die Urt, wie die Alten sich ausdrüden, wenn sie von
 der Entlehnung der Arellane sprechen, zeigt, daß man sie von
 den Ostern schon so empfing, wie sie später bei den Römern,
 wenn anch In Einzelnheiten etwas verändert, immer beschaffen
@@ -591,32 +591,32 @@ Wohllüften Geschmack zu finden, und wo die bäuerisch
 ungebildeten, aber kräftigen und treu an den Gebräuchen
 der Väter hängenden Sabellen in gleihem Gegenfase
 gleichen Stoff zum Lachen darboten. Außerdem hatte die
-Atellane noch die Anwendung bestimmter Charaktermasken [1]
+Atellane noch die Anwendung bestimmter Charaktermasken [24-1]
 mit dem Satyr - Drama gemein; denn so wie in
 diesem Silen und die Satyren auftraten, so in jener
 oskische Personen, die in jedem Stucke wiederkehrten,
 Diomedes nennt zwar nur den Makkus, doch geht aus
 seinen Worten hervor, daß es deren mehre gab, und ich
-vermuthe, daß auch der Bucco [2], welcher bei Pomponius
+vermuthe, daß auch der Bucco [24-2], welcher bei Pomponius
 öfter vorkommt, ein oskischer Charakter war. Beide
 scheinen eine dem Harlekin oder Pulicinello der neueren
 burlesken Komödie ähnliche Rolle gespielt zu haben, meist
-als Dummköpfe [3] überall das Rechte verfehlend und
+als Dummköpfe [24-3] überall das Rechte verfehlend und
 deshalb übel behandelt; vieleicht auch bisweilen voll
 Schlauheit und Heimtücke, die sie unter dem Scheine der
 
-[1] Diomed. III, 329. Latinis Atellana a Graeca satyrica
+[24-1] Diomed. III, 329. Latinis Atellana a Graeca satyrica
 differt, quod in satirica fere Satyrorum personae inducuntur,
 aut si quae sunt ridiculae similes Satyris Antolicus Busiris,
 in Atellana Oscae personae ut Maccus.
 
-[2] Isidor. 1 X. p. 1070 ed. Putsch, Zucco garrulus, quod
+[24-2] Isidor. 1 X. p. 1070 ed. Putsch, Zucco garrulus, quod
 uteros oris loquacitate, non sensu exsuperet.
  Vielleicht auch der Manducus Varro de ling. lat. p. 57,
 dictum mandier a mandendo, unde manducasi, a quo in
 Atellaneis obsonium (wahrscheinlich personam) vocant manducum.
 
-[3] Apulej. Apolog. p- 325.
+[24-3] Apulej. Apolog. p. 325.
 
 Palamedes Sisyphus et si qui praeterea fuere dolo
 memorandi, sı cum.hac una Rufi fallacıa contendantur,
@@ -644,12 +644,12 @@ den alten Farcen wenigstens diese komische Person bei
 manchen ländlichen Volksfesten, denen sie vielleicht seit
 uralter Zeit eigenthümlich war, erhalten haben muß.
 Wenn wir der Aussage des Strabon Glauben beimessen
-dürfen [1], so wurde in den Atellanen auch zu Rom
+dürfen [25-1], so wurde in den Atellanen auch zu Rom
 der oskische Dialekt beibehalten, und es ist nicht zu läugnen,
 daß seine Anwendung die Eigenthümlichkeit der
 Gattung sehr bezeichnend hervorheben und das Alterthumsliche
 
-[1] Strabo V. p. 203.
+[25-1] Strabo V. p. 203.
 Iδιον δέ τι τοῖς Ὄσχοις -- συμβέβηχε, τῶν γαρ
 Ὄσχοις εχλελειποτων ή διάλεχτος μένει
 παρα τοίς Ῥωμαίοισ, ὥστε ποιάματα σχηνοβατείσθαι χατά
@@ -671,12 +671,12 @@ die Dialektverschiedenheit sey so gering gewesen,
 daß jeder Römer auch Oskisch verstanden habe, läßt
 es sich als möglich annehmen. Allein wenn man einige
 von den Grammatikern angeführte Worte mit den gleichbedeutenden
-Lateinischen zusammenhält [1], wenn man im
+Lateinischen zusammenhält [26-1], wenn man im
 Livius liest, daß der römische Consul zu Kundschaftern
 Leute, die des Oskischen mächtig waren, in dem Heere
-außfuchen mußte [2] wenn man ferner berüchsichtiget,
+außfuchen mußte [26-2] wenn man ferner berüchsichtiget,
 
-[1]
+[26-1]
 cascus   vetus       Fest. pı 264 Goth.
 casnar   senex       --- 
 dalivus  insanus     277
@@ -687,12 +687,12 @@ pepatio  clamor      308
 sollum   totum       439
 veja     plaustrum   472
 
-[2] Liv. X, c. 20, Aliquanto ante lucem ad casira accessit,
+[26-2] Liv. X, c. 20, Aliquanto ante lucem ad casira accessit,
 gnarosque oscae linguae exploratum, quid agatur, mittit.
 
 #### 27 ./txt/080.txt ####
 daß Ennius von sich gesagt haben soll, er bestitze drei
-Herzen [1], weil er griechisch, oskisch und lateinisch spreche,
+Herzen [27-1], weil er griechisch, oskisch und lateinisch spreche,
 (denn unmöglich Konnte er seine Kenntniß der oskischen
 Sprache neben der lateinischen als ein besonderes Wissen
 aufführen; wenn die Abweichung so gering war, daß
@@ -718,7 +718,7 @@ anzunehmen nöthigt? Hat sich vielleicht dieser Schriftsteller,
 mit der Sache selbst nicht genau bekannt, durch den ihren,
 Ursprung bezeichnenden Namen verleiten lassen
 
-[1] Noct. Atr. 1. XV1I. 417.
+[27-1] Noct. Atr. 1. XV1I. 417.
 Ennius. dicit, se tria corda habere, quod Oscam, Graecam et Latinam lioguam calleret.
   
 #### 28 ./txt/083.txt ####
@@ -732,7 +732,7 @@ und durch die Bekanntschaft mit dem Getreibe der
 handelnden Personen interessanter zu machen, statt der
 Osker sabinische Landleute redend ein und Strabon
 bezeichnet ihre Mundart als Oskisch, da dieselbe nach Varros
-Versicherungen [1] ihre Wurzeln in der oskischen
+Versicherungen [28-1] ihre Wurzeln in der oskischen
 Sprache hatte, und wegen dieser Verwandtschaft viele
 Bestandtheile daraus bewährt haben mochyte?
 
@@ -748,7 +748,7 @@ Danielskirche zu Padua lebend ausspricht:
   Angelo Beolco Ruzanti Patavino
   Nullis in scribendis agendisque comoediis
 
-[1] Var. de L. lat. p. 50,
+[28-1] Var. de L. lat. p. 50
 
   Cascum significat vetus, ejusque origa Sabina, quae usque
   radices in linguam oscam egit.
@@ -774,7 +774,7 @@ wissenschaftlicher Bildung auch in der Kultur der Sprache
 stets einige Schritte zurückbleibt. Ich will die Belege
 dafür nicht aus dem Novius entnehmen, da sich sein
 Zeitalter nicht mit Gewißheit bestimmen läßt; doch
-Pomponius [1] lebte in einer Periode, wo man schon Sorgfalt auf
+Pomponius [29-1] lebte in einer Periode, wo man schon Sorgfalt auf
 die Sprache verwendete, und alles Alterthümliche mit
 geseilteren Wortformen zu vertauschen suchte, und doch ist
 sein Ausdruck, wie aus den Tagen des Plautus. So
@@ -785,7 +785,7 @@ ominas (N. M. p. 751.)
  Nil petiturae bene eveniat, ita ‚sit, et tibi bene sit
  Qui recte ominas.
 
-[1] Euseb. Chronic. Olymp, 173. a, 1.
+[29-1] Euseb. Chronic. Olymp, 173. a, 1.
 Lucius Pomponius Bonominsis clarus habetur.
 
 #### 30 ./txt/089.txt ####
@@ -900,22 +900,22 @@ Charakteristische des
 #### 33 ./txt/098.txt ####
 Ganzen hervorzuheben, da außer ihren rohen und
 veralteten Formen noch eine falsche Betonung das Lächerliche
-der Sache erhöhte [1]. Quinctillians ausdrücklichem Zeugnisse
-zufolge [2] war den Atellanen auch das Streben
+der Sache erhöhte [33-1]. Quinctillians ausdrücklichem Zeugnisse
+zufolge [33-2] war den Atellanen auch das Streben
 nach Zweideütigkeit des Ausdrckes eigen; denn indem
 er bemerkt daß dem Redner nicht alle Mittel, Lachen zu
 erregen, anständen, warnt er besönders vor jenem haschen
 nach zweideutigen und dunkelen Anspielungen, welches in
 den Atellanen gebräuchlich sey. Für die Richtigkeit
 dieser Angabe finden sich wircklich einige Belege, denn
-Sueton [3] erzählt, daß Caligula den Verfasser einer
+Sueton [33-3] erzählt, daß Caligula den Verfasser einer
 Atellane eines zweideutigen Scherzes wegen, der einen
 bitteren Ausfall auf ihn selbst enthalten mochte, mitten im
 Amphitheater habe verbrennen lassen, und selbst unter den
 aus Atellanen erhaltenen Versen giebt es einige von 
 
 
-[1] A. Gellius Nocte. Attic. 1. XIII. c. 6. 
+[33-1] A. Gellius Nocte. Attic. 1. XIII. c. 6. 
 
  Quas Graeci irgend ius dicunt, eas veteres docti tum
 motas vocum, tum moderamenta, tum accentiunculas, tum
@@ -925,14 +925,14 @@ rusticum, et cum eo vitio loquentes rustice loqui
 dictitabant. — Publius Nigidius in commentar. grammat.
 Rusticus fit, sermo, inquit, si adspires perperam.
 
-[2] Qinctil. Instit. orat. I. VI, c.3. Cum sint autem loci
+[33-2] Qinctil. Instit. orat. I. VI, c.3. Cum sint autem loci
 plures, ex quibus dicta ridicula ducantur, repetendum est
 mihi, non omnes eos oratoribus convenire. In primis autem
 ex ampbibolia, neque illa obscura, quae Atellanae more
 captent, nec, qualia vulgo jactantur a vilissimo quoque,
 conversa In maledictum fere ambiguitate.
 
-[3] Sueton Calig. c. 27. Atellanae poëtam ob ambigui joci
+[33-3] Sueton Calig. c. 27. Atellanae poëtam ob ambigui joci
 versiculium, media amphitheatri arena igni cremavit.
 
 #### 34 ./txt/101.txt ####
@@ -940,11 +940,11 @@ unverkennbarer Doppelsinnigkeit z.B. im Bubulcus cerdo
 des Novius, N. p. 534.
   Cum ad lupam ‚Nastram tam multi crebo commetant lupi.
 
-Oder im Picus desselben, Dichters, [1]. Vest. Pp. 162.
+Oder im Picus desselben, Dichters, [34-1]. Vest. Pp. 162.
   Quid. f facerem? otiosi, rodebam rutabulum.
 
 Daß rutabulum rodere in obsconem Sinne zu fassen
-seh beweist, die folgende, Stelle [2]:
+seh beweist, die folgende, Stelle [34-2]:
 
  Vel quae sperat se nupturam viro adulescentulo,
  Ea licet senile tractet retritum rutabulum.
@@ -959,18 +959,18 @@ Manne.
 
 Übrigens spricht sich sonst das Wohlgefallen an
 Obsconitoten, von deñen auh im griechischen Satyr-Drama
-der Mund des Silen und der Satyr überströmt [3],
+der Mund des Silen und der Satyr überströmt [34-3],
 in den Atellanen ohne alle dunkelen Beziehungen klar und
 unumwunden aus, und die ganze Art zu scherzen bewegt
 sich‚ wie aus den folgenden Beispielen erhellt, nur in
 sschmutzigen Redensarten:
 
-[1] Festüs p 162. rutabulum est, quo rustici in proruendo
+[34-1] Festüs p 162. rutabulum est, quo rustici in proruendo
     igne Pänis coquendi gratia (scil. utuntur).
 
-[2] Navius (Naevius ?) obscoenam viri partem describens.
+[34-2] Navius (Naevius ?) obscoenam viri partem describens.
 
-[3] Eurip. Cyclops, v. 168 — 170, 178— 180.
+[34-3] Eurip. Cyclops, v. 168 — 170, 178— 180.
 
 #### 35 ./txt/104.txt ####
 Pannuceat des Pompon. Non. p. 505.
@@ -1012,7 +1012,7 @@ Anzahl der Fragmente wahrlich nicht wenige, laffen
 eine große Menge ähnlicher in einem ganzen Stücke
 vermuthen, Dryden irrt daher sehr, wenn er in feiner
 Abhandlung über die Satyre, die antiqua elegantia,
-welche Donatus [1] an den Atellanen rühmt, dahin
+welche Donatus [36-1] an den Atellanen rühmt, dahin
 erkärt, als wären sie von allent fascennischen Schmutze
 frei gewesen, und Donat scheint damit vielmehr den
 harmlosen Erguß des Witzes und der Laune, in einem Drama,
@@ -1022,13 +1022,13 @@ fassenninischen ausgelaffenheit aber, welche sich in der häufigen
 Anwendung Schmutziger Redensarten und zweideutiger
 Anspielungen äußerte, war den Atellanen ohne Zweifel schon
 durch die alten Osker verliehen worden, da diese, den
-sinnlichen Lüften sehr ergeben [2], auch in ihren scherzhaften
+sinnlichen Lüften sehr ergeben [36-2], auch in ihren scherzhaften
 
-[1] Donat. praesat. ad Terent.
+[36-1] Donat. praesat. ad Terent.
   Atellanae — salibus et jocis compositae,
   quae in se habent nisi vetustam elegantiam.
 
-[2] Nach der Ausfage des Festus unter Oscum p. 353. —
+[36-2] Nach der Ausfage des Festus unter Oscum p. 353. —
      a quo etiam verba impudentia et elata appellantur obscoena,
      quia frequentissimus fuit usus Oscis libidinum spurcarum.
     Wenn auch Festus selbst die Richtigkeit dieser Etymologie des
@@ -1046,7 +1046,7 @@ in Rücksicht auf die Personen, welche handelnd auftraten,
 mit ziemlicher Gewißheit annehmen; doc einige Stellen
 aller Schriftsteller, die sich gegenseitig erläutern und
 bestätigen, fetzen die Sache außer Zweifel. Denn Marius
-Victorinus [1], und Terentianus Maurus [2] geben, indem
+Victorinus [37-1], und Terentianus Maurus [37-2] geben, indem
 sie von den in den Atellanen üblichen Versarten
 sprechen, als Grund, warum man gern den catalect.
 tetramet angewendet habe, an, weil er vorzüglich für
@@ -1055,7 +1055,7 @@ Tertullian scheint die Gestikulation als einen Haupttheil
 der Wirksamkeit eines atellanischen Schauspielers
 hervorzuheben, wenn er in feiner Schilderung der
 Unanständigkeiten, welche die Bühne seiner Zeit
-verunzierten, sagt [3]
+verunzierten, sagt [37-3]
   theatrum consistorium 1mpudentia ubi nihil probatur,
   quam quod alibi non probatur, ita summa gratia ejus
   de spurcitia plurimum concinnata est, quam Atellanus
@@ -1063,15 +1063,15 @@ verunzierten, sagt [3]
 wenigstens bezeichnet er so den Charakter dieser
 gestus genau, die mit der früher 
 
-[1] M. Victor. —
+[37-1] M. Victor. —
      Est enim jocosis motibus emollitum, gestibusque
      agentium satis accommodatum.
      
-[2] T. Maurus
+[37-2] T. Maurus
       Quia fine molli labile atque deserens vigorem
       Sonum ministrat Congrueniem motibus jocosis.
 
-[3] Tertullian. de spectaculis c. 18.
+[37-3] Tertullian. de spectaculis c. 18.
 
 #### 38 ./txt/113.txt ####
 gerügten Obscöndität der Worte int Einklange standen. Auch
@@ -1083,7 +1083,7 @@ den Worten schildert:
 
   Atella vel queis fabulis actus dedit petulcos;
 
-denn actus find nach Festus [1] die körperlichen
+denn actus find nach Festus [38-1] die körperlichen
 Bewegungen des Schauspielers und petulcus scheint mir die
 Bedeutung des Aubgelassenen, Schadenfrohen und Nebenden,
 die petulans hat, in sich zu vereinigen. Wahrscheinlich
@@ -1102,14 +1102,14 @@ Gedanken kamen, die alte vaterländische Satura mit der
 Atellane zu verbinden. Denn beide Gattungen des Drama's
 waren italischen und ländlichen Ursprungs; beide
 
-[1] Fest. Paul. P. 243.
+[38-1] Fest. Paul. P. 243.
      Actus significat motum corporis, ut histrionum
      et saltatorum, qui etiam ex hoc ipso actuosi dicuntur.
 
 #### 39 ./txt/116.txt ####
 hatten Einfachheit in der ganzen Anlage und Ausführung
 gemein; beide suchten den komischen Effect durh Spott
-und derben Scherz und durch groteske Körperbewegunen [1]
+und derben Scherz und durch groteske Körperbewegunen [39-1]
 zu erreichen; nur unterschieden sie sich dadurch,
 daß die Atellanen den ländlichen Charakter, welchen die
 Satura ganz verloren zu haben scheint, bewahrte, daß
@@ -1124,12 +1124,12 @@ Atellane walten noch Zweifel ob, da die Worte des
 Livius, quae inde exodia postea appellata consertaque
 Fabellis potissimum Atellanis sunt, eine zweifache
 Auslegung gestatten. — Denn berücksichtigen wir, was
-Festus [2] von den Mimen als Erodien sagt, so könnte es
+Festus [39-2] von den Mimen als Erodien sagt, so könnte es
 scheinen, als wäre näch den einzelnen Acten der Atellanen,
 (deren freilich nirgends Erwähnung geschieht) eine
 Satura aufgeführt worden. Sehen wir hingegen auf die
 
-[1] Die actus petulci und motus jocosi in den Atellanen, von
+[39-1] Die actus petulci und motus jocosi in den Atellanen, von
 denen Mar. Vict, und Zerent. Maur. sprechen, von Alters
 her , wie früher gezeigt worden ist, der Satura eigen, blieben
 ihr auch in der Folge, nach einem Verse Juvenals zu schließen:
@@ -1138,7 +1138,7 @@ Satyr. VI. v. 70.
    Urbicus exodio rısum movet Atellanae
    Gestibus Autonoes — — 
 
-[2] Festus 201.
+[39-2] Festus 201.
      Mimi prodibant dum intus fabulae actus componerentur.
 
 #### 40 ./txt/119.txt ####
@@ -1161,14 +1161,14 @@ erforderten, zu dessen Ausfüllung der Mimus auftrat, für
 die besonderen Acte der Atellanen bei der ungemeinen
 Einfachheit der ganzen Anlage wohl kaum nöthig gewesen
 sind; so möchte man geneigter seyn anzunehmen, daß
-die Satura am Schlusse der Atellane gegeben wurde [1].
+die Satura am Schlusse der Atellane gegeben wurde [40-1].
 Die Worte des Scholiasten zu Juvenals dritter Satyre
 V. 174, exodiarıus in fine ludorum intrabat beweisen
 hierbei nichts, da er, wie die folgenden Worte,
 
  ut, quidquid lacrymarum atque tristitiae coëgissent ex
 
-[1] Cic, ad. Famil. IX. 16. Venio nunc ad jocationes tuas,
+[40-1] Cic, ad. Famil. IX. 16. Venio nunc ad jocationes tuas,
 quum tu secundum Oenomaum Accii, non ut olim sole-
 bat, Atellanum, sed ut ‘nunc fit, mimum introduxisti.
 
@@ -1204,26 +1204,26 @@ Atellane und ihr Nachspiel eine eigene Klasse von
 Schauspielern aus freien Männern bildete, denen alle
 bürgerliche Rechte ungeschmälert blieben, während jeder, der
 im griechischen Drama auftrat, aus der tribus verstoßen,
-und als ehrlos vom Kriegsdienste ausgeschlossen wurde [1].
+und als ehrlos vom Kriegsdienste ausgeschlossen wurde [41-1].
 Auch trugen die Afteurs in der Atellane Masken, welche
 sie nie, selbst wenn ihr Spiel mißfiel, abzulegen gezwungen
 werden konnten, ein Schimpf, der schlechtspielenden
 Hiftrionen widerfuhr, indem man sie auf diese Art 
 
-[1] Liv. Quod genus ludorum ab Oscis acceptum tenuit
+[41-1] Liv. Quod genus ludorum ab Oscis acceptum tenuit
 juventus nec ab histrionibus pollui passa est, eo institutum
 manet, ut actores Atellanarum nec trıbu moveantur, et
 stipendia tanquam expertes artis ludicrae faciant.
 
 #### 42 ./txt/125.txt ####
 nöthigte, sich in ihrer wahren Gestalt dem Gespötte der
-Menge Preis zu geben [1]. Nach der Angabe des
-Festus [2] war die Sitte maskirt zu erscheinen, in der
+Menge Preis zu geben [42-1]. Nach der Angabe des
+Festus [42-2] war die Sitte maskirt zu erscheinen, in der
 Atellane früher als in andern Schauspielen üblich, und
 nahm wahrfcheinlich ihren Anfang, als dieselbe zur
 Öffentlichkeit gelangt war. Oder sollte sie etwa diesen
 
-[1] Valer, Mamim. II. c. 4.
+[42-1] Valer, Mamim. II. c. 4.
 Atellani ludi ab Oscis acciti sunt,
 quod genus delectationis Italica servitute temperatum
 ideoque vacuum nota est. Daß die Italica severitas hier nicht
@@ -1247,7 +1247,7 @@ Bedeutung auf jeden Schauspieler anwendbar ist, Auch würde
 dann gar nicht einleuchten, warum es noch besondere Atellanarum
 histriones gegeben habe, wenn jeder histrio darin zulässig war.
 
-[2] Fest, p. 139.
+[42-2] Fest, p. 139.
 Personata fabula quaellam Novii inscribitur,
 quam putant quidam a personatis histrionibus; cum post
 multos annos comoedi et tragoedi personis uti coeperunt,
@@ -1317,9 +1317,9 @@ geniale Köpfe bewogen wurden, Atellanen gänzlich
 ausgearbeitet niederzuschreiben, um diesen Leuten etwas
 Gutes an die Hand zu geben. Einzelne Versuche dieser
 Art scheinen bald untergegangen zu seyn, und da kein
-Atellanen Dichter [1] vor Novius und Pomponius 
+Atellanen Dichter [44-1] vor Novius und Pomponius 
 
-[1] Non, Marc. führt p. 355 unter 'jentare' einige Worte aus dem
+[44-1] Non, Marc. führt p. 355 unter 'jentare' einige Worte aus dem
    Bueco adoptatus des Afranius: Iniare (jentare?) nulla invitat,
    an. Nach dem Titel zu urteilen schrieb also auch Afriamus
    Atellanen.
@@ -1329,14 +1329,14 @@ genannt wird, so mögen sich diese beiden zuerst
 ausschließlich und mit so glänzendem Erfolge auf die
 Bearbeitungcder Atellane verlegt haben, daß ihr Name
 dadurch vorandern mit lobender Erwähnung auf die Nachwelt
-kam [1].
+kam [45-1].
 
-Man hat, durch eine Stelle des Vellejus Paterculus [2]
+Man hat, durch eine Stelle des Vellejus Paterculus [45-2]
 veranlaßt, die Vermuthung aufgestellt, daß Pomponius
 zuerst den Versuch gemacht habe, die Atellanen
 in lateinisher Sprache zu verfassen; allein auch Novius
 schrieb seine Stúcke lateinisch, und lebte ohne Zweifel
-früher; denn Macrobius, fest ihn zweimal [3] dem Pomponius
+früher; denn Macrobius, fest ihn zweimal [45-3] dem Pomponius
 vor, und besonders an der ersten Stelle auf eine
 Art, welche den Verdacht einer Zufälligkeit oder gar
 Nachlässigkeit der Anführung ausschließt, indem er die
@@ -1347,16 +1347,16 @@ Novius, zwar älter, doch noh Zeitgenosse erst durch desz
 sen Beispiel bewogen worden sey, sich der lateinischen
 
 
-[1] Macrob. Suturn. Q. Novius probatissimus Atellanarum poeta.
+[45-1] Macrob. Suturn. Q. Novius probatissimus Atellanarum poeta.
     Macrob. Suturn. L. Pomponius egregius Atellanarum poeta.
     Euseb. Chronic. L. Pomponius Bononiensis Atellanarum scriptor clarus.
 
-[2] Vellej, Paterc. II. 9.
+[45-2] Vellej, Paterc. II. 9.
       sane non ignoremus fuisse ea aetate L. Pomponium,
       verbis rudem, sensibus celebrem et novitate inventi
       a se operis commendabilem.
 
-[3] Macrob. Saturn. X. i. C.
+[45-3] Macrob. Saturn. X. i. C.
       Memmius post Novium et Pomponium, artem Atellaniam
       diu jacentem resuscitavit,
    Macrob. Saturn. II, 4.
@@ -1368,7 +1368,7 @@ Vellejus opus inventum für einen bloßen Wechsel der
 Sprache gar nicht passend; auch würde dieser unbedingt
 die Anwendung des oskischen Dialekts bis auf jene Zeit
 vorausfetzen, und wie sehr man Ursache habe, daran zu
-zweifeln, glaube ich früher gezeigt zu haben [1]. Man
+zweifeln, glaube ich früher gezeigt zu haben [46-1]. Man
 darf mit Sicherheit annehmen, daß die Periode der
 schriftstellerischen Behandlung manche Veränderungen, wenn auch
 nicht in der Gestaltung des Ganzen, um die Grundzüge
@@ -1387,7 +1387,7 @@ hatten. Doch als Werke des Nachdenkens und
 einer bis ins Einzelne gehenden Bearbeitung geliefert wurden,
 traten auch ausgedehntere Forderungen der Kritik
 
-[1] Man hat die Worte des Vellejus sogar dadurch zu
+[46-1] Man hat die Worte des Vellejus sogar dadurch zu
 erklären gesucht, daß man dem Pomponius die Erfindung
 der Atellanen zuschrieb. Doch shon die bloße Versicherung
 des Festus am obigen Orte p. 25, daß es zur Zeit des
@@ -1415,13 +1415,13 @@ in größerer Vollkommenheit durchzuführen verstand, so
 blieb dem römischen Nachahmer  auch hier noch manches
 zu lernen übrig. Daß man wirklih für die Atellane
 manches entlehnt habe, wird Durch alte Zeugnisse außer
-Zweifel gefest, denn Marius Victorinus [1] sagt, daß
+Zweifel gefest, denn Marius Victorinus [47-1] sagt, daß
 die atellanischen Dichter sich des satyrischen Trimeters
 bedient und darin besonders gern dreisylbige Füße, meist
 Tribachen angewendet hätten. In den Bruchstücken aus
 
 
-[1] M. V. IL 2527. Superest satyricum, quod inter tragicum
+[47-1] M. V. IL 2527. Superest satyricum, quod inter tragicum
 et comicum stylum medium est — quod genus nostri in
 Atellanis habent; gaudent autem trisyllabo pede, et maxime
 tribacho. Exemplum hujus:
@@ -1430,7 +1430,7 @@ tribacho. Exemplum hujus:
 #### 48 ./txt/143.txt ####
 Novius und Pomponius finden sich dafür auch einige
 Beispiele, doch find der catalectische (den auch Marius
-Victor [1] und Terent. Maurus [2] als der Atellane
+Victor [48-1] und Terent. Maurus [48-2] als der Atellane
 eigenthümlich erwähnen) und der acatalectische Tetrameter
 häufiger.
 
@@ -1451,13 +1451,13 @@ J. Pollax Onom) selbst den Beinamen πάπποσ‚ hatte,
 nachgebildet ist. Auch zweifle ich nicht
 
 
-[1] M. V. III. 2574. (tretameter catalecticus) frequens hoc
+[48-1] M. V. III. 2574. (tretameter catalecticus) frequens hoc
 comicis metrum et praecipue antiquae comoediae scriptoribus;
 nostri quoque Plautus et Caecilius et -Turpilius non aspernati
 sunt. Atellanarum autem scriptores appetiverunt, est enim
 jocosis motibus
 
-[2] Terent: M. p. 2456.
+[48-2] Terent: M. p. 2456.
       Frequens in usu est tale metrum comicis vetustis,
       Atella vel queis fabulis actus dedit petulcos,
       Quia fine molli labile atque deserens vigorem
@@ -1465,7 +1465,7 @@ jocosis motibus
 
 #### 49 ./txt/146.txt ####
 daß die Anwendung der Atellane als Nachspiel der
-Tragödie [1] sich von der Beobachtung desselben Gebrauches
+Tragödie [49-1] sich von der Beobachtung desselben Gebrauches
 bei den Griechen herfchreibt, die dem Trauerfpiel ein drama
 satyricom als exodium folgen ließen; und da sich
 unter den Stücken des Pomponius ein Agamemnon und
@@ -1488,7 +1488,7 @@ dramatischen Litteratur zu beziehen seyn sollte.
 Es werden nchmlih unter den Lustspielen des Pomponius einige
 erwähnt, deren Titel nicht Atellanen,
 
-[1] Cic. ad div. 1. IX. 16. Venio nunc ad jocationes tuas,
+[49-1] Cic. ad div. 1. IX. 16. Venio nunc ad jocationes tuas,
 quum tu secundum Oenomaum Accii, non ut olim solebat,
 Atellanum, sed ut nunc fit, mimum introduxisti. Das ur
 olim solebat fann auf feine: andere Zeit, als auf die des
@@ -1496,7 +1496,7 @@ Novins und Pomponius zu beziehen seyn, Vieleicht führte der
 leßtere jene Sitte ein.
 
 #### 50 ./txt/149.txt ####
-sondern Tabernarien [1] anzuzeigen scheinen, denn es ist klar,
+sondern Tabernarien [50-1] anzuzeigen scheinen, denn es ist klar,
 daß in ihnen einzelne Klassen von Handwerkern die Hauptrolle
 spielen, z. B. die Piscatores Fullones Pistores,
 auch, Pistor (bei Non. Marc. p. 756, 750, 491, 529).
@@ -1523,7 +1523,7 @@ neuerer Zeit wirklich bewiesen. Denn der oben
 genannte Paduaner Ruzante, welcher zuerst auf die Idee
 gerieth, mehre Mundarten in seinen Lustspielen
 
-[1] Diomed. II. c. 4. Secunda species togatarum, quae
+[50-1] Diomed. II. c. 4. Secunda species togatarum, quae
 tabernariae dicuntur, humilitate personarum et argumentorum
 similitudine comoediis pares.
 
@@ -1563,7 +1563,7 @@ Römer jener Zeit, die ihren afthetifchen. Sinn durch
 griechische Studien verfeinert hatten. Auch finden wir dieses
 in der That völlig bestätiget, denn Macrobiug versichert,
 daß nach jenen beiden Dichtern die Atellane lange danieder
-gelegen habe [1], Der Beifall, womit damals die
+gelegen habe [52-1], Der Beifall, womit damals die
 Mimen in Rom aufgenommen wurden, und die sogenannten
 Tabernarien, welche in der Behandlung römischer gemein
 komischer Stoffe das griechische Lustspiel soviel als
@@ -1575,7 +1575,7 @@ beigetragen haben. Wie lange selbe dauerte, kann nicht mit
 Bestimmtheit angegeben werden, da wir von jenem C,
 Memmius , der sie wieder in Aufnahme gebracht haben
 soll, nihts Zuverlässiges wissen. Doch erschen wir aus
-einem Briefe Cicero’s an den Marius [2] (9, I, 698),
+einem Briefe Cicero’s an den Marius [52-2] (9, I, 698),
 daß man damals auch oskishe Schauspiele aufführte,
 und sein Scherz, Marius werde dieselben nicht vermißt
 haben, weil er sie im Senate zu Arpinum sehen kdnne,
@@ -1584,10 +1584,10 @@ die Senatoren dieser kleinen Munizipalftadt wahrscheinlih
 alle Landbesizer und auh in Manieren und Sprache von
 Bauern nicht sehr unterschieden, manche lächerliche Szene
 
-[1] Macrob. Sat. X. 1. C. Memmius post Novium et Pomponium
+[52-1] Macrob. Sat. X. 1. C. Memmius post Novium et Pomponium
       artem Atellaniam diu jacentem resuscitavit.
 
-[2] ad famil, VII. Non enim te puto Graecos aut Oscos
+[52-2] ad famil, VII. Non enim te puto Graecos aut Oscos
       ludos desiderasse, praesertim cum Oscos ludos vel in
       senatu (austro) spectare possis.
 
@@ -1635,7 +1635,7 @@ schriftstellerische Versuche in dieser Gattung gemacht,
 und dabei den wahren Character ihrer Satyrn verfehlt hatten;
 denn daß man auch in Rom Satyrdramen verfaßte, ohne
 sie eben auf die Bühne zu bringen, beweiset wenigstens
-das Beispiel des Sulla, wie wir beim Athenäus [1] lesen.
+das Beispiel des Sulla, wie wir beim Athenäus [54-1] lesen.
 Man nimmt zwar hier gewöhnlich an, daß Athenäus durch die
 Worte
 
@@ -1650,7 +1650,7 @@ satyricum?
 
 Nachdem also Horaz gezeigt hat, was bei der 
 
-[1] VI. 7.
+[54-1] VI. 7.
 
 Σύλλαν φησὶ Nιχόλαος τὸν Ῥωμαιον στρατηγὸν
 ὅυτω χαιρειν μιμοις και γελωτοποιοῖςφιλογλων γενόμενον,
@@ -1731,7 +1731,7 @@ jene Art der Satyre, welche fih von Alters her, nicht
 strafend, sondern nur verlachend in der arglofen Verhöhnung 
 
 #### 57 ./txt/170.txt ####
-mancher Gebrechen und Thorhetten [1] im Allgemeinen
+mancher Gebrechen und Thorhetten [57-1] im Allgemeinen
 äußerte, scheint nur gegen die Mängel der Verfassung
 und gegen die Machthaber gerichtet, ihre Geißel um so
 muthwilliger geschwungen zu haben, je mehr die bekannte
@@ -1763,15 +1763,15 @@ bei Sueton im Galba c.13 lesen wir:
 
   Quare advenius ejus non perinde gratus fuit, idque proximo
   speciaculo apparuit. Sı quidem Atellanis notissimum canticum
-  exorsis [2]: Venit, io Simus a villa, cuncti simul spectatores
+  exorsis [57-2]: Venit, io Simus a villa, cuncti simul spectatores
   consentiente voce reliquam partem retulerunt ac saepius versu
   repetito egerunt. 
 
-[1] Cic. ds Divinat II.10,
+[57-1] Cic. ds Divinat II.10,
    Totum omnino fatum etiam Atellanio versu jure mihi
    esse irrisum videtur,
 
-[2] Atellanis notissimum canticum exorsis, ift, wohl nicht von dem
+[57-2] Atellanis notissimum canticum exorsis, ift, wohl nicht von dem
     canticun dex Komödie zu verstehen, da dieses immer nur von einem
     Schauspieler vorgetragen wurde. Wenn man dabei die Worte selbst:
     Venit io, Simus a villa und den Ausdruck: notissimum canticum
@@ -1796,12 +1796,12 @@ gegeben, wie Sueton im 75sten B. erzählt:
 Ich glaube daher, daß mehr diese Freiheit der
 personlichen Satyre als der Vorwurf sittlicher
 Ausgelassenheit schon, unter Tibers Regierung, wie Tacitus
-berichtet [1], Ursache wurde, von Staatswegen gegen die
+berichtet [58-1], Ursache wurde, von Staatswegen gegen die
 Atellane zu verfügen, und die Schauspieler aus Italien
 zu vertreiben. Doch dieses exil währte nicht lange, denn
 
 
-[1] Tac. Annal. IV. 14.
+[58-1] Tac. Annal. IV. 14.
 
      Variis dehinc ac saepe invitis praetorum
      questibus postremo Caesar de immodestia histrionum retulit: multa
@@ -1811,7 +1811,7 @@ zu vertreiben. Doch dieses exil währte nicht lange, denn
      sit. pulsi tum histriones Italia.
 
 #### 59 ./txt/176.txt ####
-shon unter Caligula [1] haben wir bestimmte Andeutungen
+shon unter Caligula [59-1] haben wir bestimmte Andeutungen
 von der erneuerten Wirksanikeit der Atellanen, und
 die Art, wie sich jener atellanische Dichter die Rache des
 Caligula zuzog, sowie die oben erwähnte scharfe Rüge
@@ -1841,7 +1841,7 @@ Umstand sowohl, als früher noch die leidenschaftliche
 Vorliebe der Römer für pantomimische Darstellungen , welche
 fast alle anderen Schauspiele von der Bühne verdrängten,
 
-[1] Tertull. de spect. c. 18.
+[59-1] Tertull. de spect. c. 18.
       theatrum consistorium impudicitiae,
       ubi nihil probatur, quam quod alibi non probatur;
       ita summa gratia ejus de spurcitia plurimum concinnata
