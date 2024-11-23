@@ -1,0 +1,19 @@
+#!/bin/sh
+if [ -f atellanischenSchauspiele.epub ]; then
+    rm atellanischenSchauspiele.epub
+fi
+
+cd ./pub
+
+zip -r ../atellanischenSchauspiele.epub ./META-INF/ ./OEBPS/ ./mimetype
+
+cd -
+
+if [[ -f atellanischenSchauspiele.pdf && -f atellanischenSchauspiele.epub ]]; then
+    rm atellanischenSchauspiele.pdf
+fi
+
+if [ -f atellanischenSchauspiele.epub ]; then
+    ebook-convert atellanischenSchauspiele.epub atellanischenSchauspiele.pdf
+fi
+

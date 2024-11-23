@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package unique-identifier="unique-identifier"
+	 version="3.0"
+	 xmlns="http://www.idpf.org/2007/opf"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:dcterms="http://purl.org/dc/terms/"
+	 xmlns:opf="http://www.idpf.org/2007/opf">
+  
+  <metadata>
+    <dc:identifier id="pub-id">
+      urn:uuid:c18a9d9e-8cde-4012-b0ff-8d48e37b4526
+    </dc:identifier>
+    <dc:title>Über die Atellanischen Schauspiele der Römer.</dc:title>
+    <dc:creator>Carl Ernst Schober</dc:creator>
+    <dc:language>de</dc:language>
+    <dc:subject id="subject">
+      Literature / Latin and Italic literatures / Latin poetry
+    </dc:subject>
+    <dc:contributor id="id">Roger Grantham</dc:contributor>
+    <meta property="dcterms:modified">2012-11-07T12:00:00Z</meta>
+  </metadata>
+  
+  <manifest>
+    <item id="cover"
+	  href="cover.xhtml"
+	  media-type="application/xhtml+xml"/>
+    <item href="001.xhtml"
+	  id="c-001"
+	  media-type="application/xhtml+xml"/>ml+xml"/>
+    <item id="style"
+	  href="style.css"
+	  media-type="text/css"/>
+  </manifest>
+  
+  <spine toc="ncx">
+    <itemref idref="cover" />
+    <itemref idref="c-001" />
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.xhtml"/>
+    <reference type="toc" title="Inhalt" href="nav.xhtml"/>
+  </guide>
+
+  
+</package>
+
+

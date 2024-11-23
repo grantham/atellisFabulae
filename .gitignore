@@ -1,11 +1,13 @@
 # Compiled
 *.elc
-
-# Packaging
-.cask
+*.epub
+*.pdf
 
 # Backup files
 *~
 
 # Undo-tree save-files
 *.~undo-tree
+
+**/*~
+

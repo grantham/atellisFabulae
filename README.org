@@ -1,0 +1,19 @@
+* Über die Atellanischen Schauspiele der Römer (Carl Schober, Liepzig, 1825)
+
+An essay on the extant sources which describe the Atellan Farces. 
+
+The source of the text was taken from https://archive.org/details/ueberdieatellani00scho/page/4/mode/2up
+
+** Text Preparation
+OCR was performed on the PDF using:
+
+- tesseract
+  - tesseract-ocr-frk
+  - tesseract-ocr-script-frak
+  - tesseract-ocr-deu
+
+Manual correction was then carried out on the text, incorporating the table of errata.
+
+* Build the epub
+
+=$ ./publish=
