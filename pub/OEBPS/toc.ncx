@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
   <head>
     <meta name="dtb:uid" content="urn:uuid:c18a9d9e-8cde-4012-b0ff-8d48e37b4526" />
@@ -8,46 +9,39 @@
     <meta name="cover" content="cover-img" />
   </head>
   <docTitle>
-    <text>Versuch</text>
+    <text>Über die Atellanischen Schauspiele der Römer</text>
   </docTitle>
   
   <navMap>
-
     
     <navPoint id="n-0">
-      <navLabel>
-        <text>Cover</text>
-      </navLabel>
-      <content src="cover.xhtml" />
+      <navLabel><text>Buchdeckel</text></navLabel>
+      <content src="./cover.xhtml" />
     </navPoint>
 
-    
     <navPoint id="n-1">
-      <navLabel><text>Title Page</text></navLabel>
-      <content src="title.xhtml"/>
-    </navPoint
-
+      <navLabel><text>Titleblatt</text></navLabel>
+      <content src="./title.xhtml"/>
+    </navPoint>
     
     <navPoint id="n-2">
-      <navLabel><text>Acknowledgements</text></navLabel>
-      <content src="ack.xhtml"/>
+      <navLabel><text>Quellen dieser Ausgabe</text></navLabel>
+      <content src="./ack.xhtml"/>
     </navPoint>
     
     <navPoint id="n-3">
-      <navLabel><text>TOC</text></navLabel>
-      <content src="nav.xhtml"/>
+      <navLabel><text>Inhaltsverzeichnis</text></navLabel>
+      <content src="./nav.xhtml#toc-title"/>
     </navPoint>
     
     <navPoint id="n-4">
-      <navLabel><text>Versuch</text></navLabel>
-      <content src="001.xhtml"/>
+      <navLabel><text>Über die Atellanischen Schauspiele der Römer</text></navLabel>
+      <content src="./001.xhtml"/>
     </navPoint>
     
     <navPoint id="n-5">
-      <navLabel><text>Notes</text></navLabel>
-      <content src="notes.xhtml"/>
+      <navLabel><text>Fußnoten</text></navLabel>
+      <content src="./notes.xhtml"/>
     </navPoint>
-    
-
   </navMap>
 </ncx>
