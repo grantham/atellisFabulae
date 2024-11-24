@@ -28,6 +28,9 @@
 	  href="images/cover.png"
           properties="cover-image"
 	  media-type="image/png"/>
+    <item id="src-img"
+	  href="images/Mosaic_with_mask_of_Silenus.jpg"
+	  media-type="image/jpeg"/>
     <item id="cover"
 	  href="cover.xhtml"
 	  media-type="application/xhtml+xml"/>

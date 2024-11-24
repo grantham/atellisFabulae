@@ -874,21 +874,21 @@ body#title-page  p {
     text-align: center !important;
 }
 
-body#content {
+body.content {
     max-width: 650px;
     padding: 24px 12px 12px 24px;
     margin: 24px 12px 12px 24px;
 }
 
-body#content blockquote {
+body.content blockquote {
     padding: 12px 12px 12px 48px;
 }
 
-body#content dl {
+body.content dl {
     padding: 12px 12px 12px 24px;
 }
 
-body#content p {
+body.content p {
     padding: 12px 12px 12px 12px;
 }
 
