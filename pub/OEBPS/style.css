@@ -892,3 +892,26 @@ body.content p {
     padding: 12px 12px 12px 12px;
 }
 
+.centered {
+    text-align: center !important;
+}
+
+.centered p {
+    text-align: center !important;
+}
+
+body#ack {
+    max-width: 650px;
+    padding: 24px 12px 12px 24px;
+    margin: 24px 12px 12px 24px;
+    font-size: smaller;
+}
+
+body#ack dt {
+    font-weight: normal;
+}
+
+body#ack img {
+    width: 50%;
+    border-radius: 8px !important;
+}
